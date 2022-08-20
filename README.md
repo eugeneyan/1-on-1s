@@ -100,3 +100,12 @@ It can be hard but its important to get honest feedback from your team on your m
 - What is the percentage of my involvement in your daily tasks? Would you prefer more or less?
 - How can I support you better?
 - What is something I could have done better? What are the situations that I could have helped more but didn’t?
+
+## Managing former peers
+- [What to do when you start managing former peers](https://getlighthouse.com/blog/managing-former-peers/)
+- [How to manage former peers](https://lattice.com/library/how-to-manage-former-peers)
+- [How to manage your former peers](https://hbr.org/2012/12/how-to-manage-your-former-peer)
+- [How to manage former peers (With tips for success)](https://www.indeed.com/career-advice/career-development/managing-former-peers)
+- [7 tips for leading your peers](https://www.johnmaxwell.com/blog/7-tips-for-leading-your-peers/)
+- [3 things to do ASAP when a promotion makes you the boss of your friends](https://www.monster.com/career-advice/article/promotion-boss-of-friends)
+- [Show 'em who's boss: 4 tips for successfully managing your peers after a promotion](https://www.inc.com/dan-finnigan/show-em-who-s-boss-4-tips-for-successfully-managing-your-peers-after-a-promotion.html)
