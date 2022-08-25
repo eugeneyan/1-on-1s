@@ -37,6 +37,8 @@ Improving interpersonal relationships improves productivity. Also, someone with 
 
 ### Team Mechanisms
 
+Mechanisms are processes that convert inputs to desired outputs. Figuring out the right mechanisms for the team helps to increase productivity and scale.
+
 - What is the team doing well that we should emphasize?
 - What are you doing that’s helpful that you think everyone should do?
 - What are some bad habits you think the team has?
